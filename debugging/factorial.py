@@ -24,7 +24,6 @@ def factorial(n):
          print("Please provide a non-negative integer.")
          sys.exit(1)
 
-
-     f = factorial(number)
-     print(f)
+    f = factorial(number)
+    print(f)
 
